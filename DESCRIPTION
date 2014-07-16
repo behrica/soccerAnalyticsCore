@@ -1,0 +1,11 @@
+Package: soccerAnalyticsCore
+Type: Package
+Title: Calculates Soccer Stats
+Version: 1.0
+Date: 2014-07-16
+Author: Carsten Behring
+Maintainer: Carsten Behring <carsten.behring@gmail.com>
+Description: Calculates Soccer Stats
+License: GPL-2
+Imports:
+    RCurl
