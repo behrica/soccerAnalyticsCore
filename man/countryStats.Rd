@@ -3,7 +3,7 @@
 \alias{countryStats}
 \title{Calculates stats for a given country}
 \usage{
-countryStats(country, games)
+countryStats(country)
 }
 \arguments{
 \item{country}{A country string, such as "DEU"}
